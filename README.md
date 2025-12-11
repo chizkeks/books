@@ -2,7 +2,7 @@
 ### 2025
 - Король в жёлтом. Роберт Чамберс
 - От Босха до Брейгеля. П. Волкова
-- Spring start here. Laurentiu Spilca
+- Spring starts here. Laurentiu Spilca
 - Бог всегда путешествует инкогнито. Лоран Гунель
   
 ### 2022
