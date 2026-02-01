@@ -1,6 +1,7 @@
 # Прочитанные книги
 ### 2026
 - Spring starts here. Laurentiu Spilca
+- Days at the Morisaki bookshop. Satoshi Yagisawa
  
 ### 2025
 - Король в жёлтом. Роберт Чамберс
